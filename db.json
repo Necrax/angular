@@ -1,0 +1,15 @@
+{
+    "gente":[
+        {"id": 1, "nombre": "Izan"},
+        {"id": 2, "nombre": "Juan"},
+        {"id": 3, "nombre": "Ivan"},
+        {"id": 4, "nombre": "Lorena"},
+        {"id": 5, "nombre": "Jesus"}
+    ],
+    "equipos":[
+        {"id": 1, "nombre_eq": "Mancos"},
+        {"id": 2, "nombre_eq": "Pros"},
+        {"id": 3, "nombre_eq": "Negros"},
+        {"id": 4, "nombre_eq": "Racistas"}
+    ]
+}
